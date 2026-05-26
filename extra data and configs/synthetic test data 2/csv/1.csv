@@ -1,0 +1,101 @@
+id,product_title,price,amount_sold
+1,Classic Burger,8.5,120
+2,Margherita Pizza,10.0,95
+3,Spaghetti Carbonara,12.0,60
+4,Caesar Salad,7.0,80
+5,Sushi Set,18.5,45
+6,Chicken Tenders,6.5,130
+7,BBQ Ribs,15.0,55
+8,Veggie Burger,9.0,75
+9,Grilled Salmon,17.0,50
+10,Fish and Chips,11.0,65
+11,Pepperoni Pizza,11.0,85
+12,French Fries,4.5,200
+13,Cheesecake,6.0,70
+14,Tiramisu,6.5,60
+15,Greek Salad,7.5,85
+16,Chicken Alfredo,13.0,58
+17,Beef Stroganoff,14.0,49
+18,Chocolate Brownie,5.5,90
+19,Vegan Bowl,10.5,72
+20,Margarita Cocktail,9.0,110
+21,Strawberry Smoothie,6.0,95
+22,Latte,5.0,125
+23,Espresso,3.5,170
+24,Mocha,5.5,115
+25,Club Sandwich,8.0,100
+26,Tom Yum Soup,12.5,55
+27,Pad Thai,11.5,65
+28,Pho Soup,10.0,70
+29,Churros,5.0,88
+30,Cappuccino,5.0,130
+31,Mushroom Risotto,14.0,45
+32,Vegetable Curry,11.0,68
+33,Buffalo Wings,9.5,105
+34,Lobster Roll,22.0,30
+35,Cobb Salad,8.5,77
+36,Seafood Paella,19.0,40
+37,Steak,25.0,35
+38,Grilled Chicken,14.0,58
+39,Mac and Cheese,9.0,97
+40,Banana Split,6.0,84
+41,Onion Rings,5.0,120
+42,Falafel Wrap,7.5,88
+43,Pancakes,6.5,110
+44,Berry Parfait,7.0,73
+45,Caesar Wrap,8.0,90
+46,Teriyaki Chicken,12.0,66
+47,Beef Tacos,10.0,85
+48,Chicken Quesadilla,9.5,92
+49,Guacamole and Chips,6.0,125
+50,Miso Soup,4.0,140
+51,Lamb Shank,23.0,28
+52,Veggie Sushi Roll,11.0,55
+53,Shrimp Tempura,14.0,50
+54,Fettuccine Alfredo,12.5,64
+55,Pulled Pork Sandwich,9.0,85
+56,Margarita Pizza (L),12.5,62
+57,Hot Dog,6.0,135
+58,Nachos,8.5,99
+59,BLT Sandwich,7.5,96
+60,Baked Ziti,11.5,70
+61,Spinach Pie,7.0,74
+62,Garlic Bread,4.5,160
+63,Poke Bowl,13.0,58
+64,Fried Rice,9.0,110
+65,Tempura Udon,12.0,54
+66,Cheese Platter,17.0,40
+67,Tuna Tartare,18.0,36
+68,Avocado Toast,7.5,98
+69,Creamy Tomato Soup,5.5,120
+70,Beef Burger,10.0,100
+71,Stuffed Bell Peppers,8.0,66
+72,Lamb Gyro,9.0,80
+73,Seafood Pasta,17.5,45
+74,Chicken Fajitas,12.5,60
+75,Chocolate Mousse,6.5,76
+76,Breaded Chicken,11.0,85
+77,Tofu Stir Fry,10.0,74
+78,Baklava,5.5,92
+79,Banana Bread,5.0,102
+80,Salmon Poke,14.0,50
+81,Chicken Biryani,11.0,70
+82,Beef Empanadas,8.0,78
+83,Lasagna,13.0,68
+84,Grilled Veggie Platter,9.5,62
+85,Mango Sticky Rice,7.0,85
+86,Clam Chowder,8.0,80
+87,Quinoa Salad,9.0,90
+88,Chocolate Lava Cake,7.5,65
+89,Mexican Street Corn,5.0,130
+90,Chicken Parmigiana,12.0,64
+91,Kimchi Fried Rice,9.0,84
+92,Truffle Fries,7.5,95
+93,Garlic Shrimp,14.5,50
+94,Apple Pie,5.0,110
+95,Stuffed Mushrooms,6.5,87
+96,Chicken Shawarma,9.0,90
+97,Shakshuka,8.0,65
+98,Creamy Pesto Pasta,12.0,66
+99,Thai Green Curry,11.5,64
+100,Cinnamon Rolls,6.0,105
