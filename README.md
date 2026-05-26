@@ -197,24 +197,3 @@ The project evaluates model performance using:
 - Prediction error visualisations
 
 MAE is used as the main optimisation objective because it is easy to interpret in the context of demand forecasting.
-
-## Notes and Limitations
-
-- The repository does not include the original sales dataset.
-- Forecast quality depends heavily on the amount and consistency of available historical data.
-- Very small datasets may limit the reliability of neural networks and hyperparameter tuning.
-- The notebook is research/prototype code rather than a production deployment system.
-- Configuration files must match the dataset column names and folder structure.
-
-## Future Improvements
-
-- Convert the notebook into a modular Python package.
-- Add a command-line interface for selecting datasets and model types.
-- Add automated unit tests for configuration loading and feature engineering.
-- Save trained models and prediction outputs in a structured `outputs/` folder.
-- Add clearer experiment tracking for model comparison.
-- Build a simple user interface for uploading data and changing model parameters.
-
-## Suggested Citation / Academic Context
-
-This project was developed as part of a university machine learning/data science project focused on applying AI and predictive analytics to food-service supply chain demand forecasting.
